@@ -1,0 +1,12 @@
+[
+  {
+    "titulo": "Sistema de Reservas Blissagen",
+    "imagem": "/assets/blissagen.png",
+    "video": "https://youtu.be/exemplo",
+    "github": "https://github.com/seuuser/blissagen",
+    "site": "https://blissagen.netlify.app",
+    "descricaoCliente": "Site simples para reservas de datas e vitrine de produtos de confeitaria.",
+    "descricaoTecnico": "React + Tailwind, responsivo, sem backend. Utiliza props dinâmicas via JSON.",
+    "tags": ["React", "Tailwind", "Site Institucional"]
+  }
+]
